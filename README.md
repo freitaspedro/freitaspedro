@@ -51,27 +51,15 @@
 
 <br/>
 
-<!-- #### Highlights -->
+#### Highlights 💫
 
-<!-- <table>
+<table>
   <tr>
+    <td align="center"><img src="BMI-Calculator-iOS13.gif" width=144></td>
     <td align="center"><img src="Clima-iOS13.gif" width=144></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=freitaspedro&repo=Clima-iOS13" /></td>
+    <td align="center"><img src="H4X0RNews-SwiftUI.gif" width=144></td>
   </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=freitaspedro&repo=Flash-Chat-iOS13" /></td>
-    <td align="center"><img src="Clima-iOS13.gif" width=144></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="Clima-iOS13.gif" width=144></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=freitaspedro&repo=H4X0RNews-SwiftUI" /></td>
-  </tr>
-</table> -->
-
-
-
-
-
+</table>
 
 
 
