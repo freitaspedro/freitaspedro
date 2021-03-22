@@ -47,7 +47,7 @@
 
 #### This Week I Spent My Time On 📊
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=freitaspedro&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=freitaspedro&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
