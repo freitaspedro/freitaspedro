@@ -16,6 +16,8 @@
 
 ![Snake animation](https://github.com/freitaspedro/freitaspedro/blob/output/github-contribution-grid-snake.svg)
 
+<br/>
+
 #### Principal Skills 🔧  
 
 <p align="center">
