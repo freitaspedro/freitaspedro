@@ -64,6 +64,11 @@
     <td align="center"><img src="Clima-iOS13.gif" width=144></td>
     <td align="center"><img src="H4X0RNews-SwiftUI.gif" width=144></td>
   </tr>
+  <tr>
+    <td align="center"><img src="bmi-calculator-flutter.gif" width=144></td>
+    <td align="center"><img src="clima-flutter.gif" width=144></td>
+    <td align="center"><img src="mtodoey-flutter.gif" width=144></td>
+  </tr>
 </table>
 
 
