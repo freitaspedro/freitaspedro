@@ -10,7 +10,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/pedrovpfreitas)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@pvpfreitas/)
 [![Wahtsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/5521999367321)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/pfreitas)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/pvpfreitas)
 
 <br/>
 
