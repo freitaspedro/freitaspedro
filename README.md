@@ -23,12 +23,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=social&logo=Android&logoColor=3DDC84"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=social&logo=Java&logoColor=ED8B00"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=social&logo=Java"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=social&logo=Kotlin&logoColor=0095D5"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/iOS-000000?style=social&logo=iOS&logoColor=000000"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Swift-FA7343?style=social&logo=Swift&logoColor=FA7343"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=social&logo=flutter"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=social&logo=dart"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=social&logo=React&logoColor=20232A"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=social&logo=Firebase&logoColor=FFCA28"/>&nbsp;&nbsp;&nbsp;
-<!--   <img src="https://img.shields.io/badge/React_Native-20232A?style=social&logo=React&logoColor=20232A"/>&nbsp;&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/Git-F05032?style=social&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub-100000?style=social&logo=GitHub&logoColor=100000"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=social&logo=Python&logoColor=3776AB"/>&nbsp;&nbsp;&nbsp;
